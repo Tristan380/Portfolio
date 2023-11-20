@@ -24,7 +24,7 @@ Hosted on Vercel.
 
 1. Clone: `git clone https://github.com/YourUsername/Portfolio.git`
 2. Navigate: `cd Portfolio`
-3. Open `index.html` in your browser.
+3. Open `takudzwadube.vercel.app` in your browser.
 
 ## Contributions
 
